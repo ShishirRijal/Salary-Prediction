@@ -64,8 +64,23 @@ In this project, a linear regression model is utilized to predict the salary bas
 The results section will showcase the performance of the model through various metrics and visualizations. It will include:
 
 - **Model Accuracy:** The trained model can predict the salary of professionals according to their experience with an average accuracy of <strong> 93%</strong>.
-<!--
-- **Visualizations:** Graphs showing the actual vs. predicted salaries, residuals plot, and possibly a learning curve. 
--->
+
+- **Visualizations:** Graphs showing the actual vs. predicted salaries.
+<img src="datapoint-plot.png" alt="Trainging data" height="300" width="400"> <img src="dataset-lineplot.png" alt="Trainging data" height="300" width="400">
+<img src="prediction-model.png" alt="Trainging data" height="400" width="600">
+
+
+### Contributing
+Contributions to enhance the Salary Prediction model are welcomed! Here's how you can contribute:
+
+1. **Fork the Repository:** Fork the [Salary Prediction](https://github.com/ShishirRijal/Salary-Prediction) repository to your GitHub account.
+2. **Clone the Repository:** Clone the forked repository to your local machine.
+3. **Create a New Branch:** Create a new branch for your feature or bug fix.
+4. **Commit Your Changes:** Make and commit your changes to the new branch.
+5. **Push to GitHub:** Push your changes to GitHub.
+6. **Submit a Pull Request:** Submit a pull request to merge your changes to the main branch.
+
+Ensure to pull the latest version from the main branch before creating a new feature branch to avoid any merge conflicts.
+
 
  
